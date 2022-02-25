@@ -9,7 +9,7 @@
   "dependencies": {
     "@vueuse/core": "^7.6.0",
     "ant-design-vue": "^3.0.0-beta.9",
-    "flyio": "^0.6.14",
+    "axios": "^0.26.0",
     "js-sha256": "^0.9.0",
     "pinia": "^2.0.11",
     "pinia-plugin-persist": "^0.0.93",
