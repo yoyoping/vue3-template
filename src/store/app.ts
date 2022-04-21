@@ -1,8 +1,9 @@
 import { defineStore } from 'pinia'
+import RootState from './interface'
 
 export default defineStore({
   id: 'appStore',
-  state: () => {
+  state: (): RootState => {
     return {
       name: '张三',
       age: 18,
